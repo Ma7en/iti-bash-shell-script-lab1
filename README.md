@@ -1,5 +1,5 @@
 # Mazen Saad
 
-## ITI Admin01 Lab1
+## ITI Bash Shell Script Lab1
 
 ### Q1
